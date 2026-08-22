@@ -8,7 +8,7 @@ freedom, generosity, trust in government), in order to identify distinct
 
 ## Data Source
 World Happiness Report, years 2015-2019.
-https://worldhappiness.report/
+https://www.kaggle.com/datasets/unsdsn/world-happiness
 
 ## Task Type
 Unsupervised Learning — Clustering
